@@ -1,0 +1,30 @@
+.nav-extended{
+    background-color:#d5d5d5;
+}
+
+.tabs{
+    background-color:#d5d5d5;
+    
+}
+
+.black-text{
+    font-size:20px;
+    
+}
+
+
+.brand-logo.center{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
+    font-size:50px;
+    
+    color: #2c2c2c;
+    background-color: #d5d5d5;
+    letter-spacing: .05em;
+    text-shadow: 
+      4px 4px 0px #d5d5d5, 
+      7px 7px 0px rgba(0, 0, 0, 0.2);
+    
+    
+}

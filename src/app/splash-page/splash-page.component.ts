@@ -1,4 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { MaterializeModule } from 'angular2-materialize';
+
+
+
 
 @Component({
   selector: 'splash-page',
@@ -7,9 +11,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SplashPageComponent implements OnInit {
 
-  constructor() { }
+  
+
+  constructor() { 
+
+  }
 
   ngOnInit() {
+    
   }
 
 }

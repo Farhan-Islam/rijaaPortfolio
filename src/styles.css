@@ -1,4 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 html,body{
-    background-color: #d5d5d5;
+    /* background-color: black; */
 }
+
+.tabs .indicator {
+    background-color:rgb(148, 24, 24);
+} /*Color of underline*/
